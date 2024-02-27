@@ -47,11 +47,12 @@ int main()
  cout << aa++ << endl;
 
  cout << aa << endl;
+ 
 
  int s = 10;
  cout << ((++s) * (s++)) << endl;
 
- 
+
 
 
 }
