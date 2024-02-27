@@ -51,5 +51,7 @@ int main()
  int s = 10;
  cout << ((++s) * (s++)) << endl;
 
+ 
+
 
 }
